@@ -1,4 +1,4 @@
-# Sketched Character Detection with ResNet50
+# Sketched Character Detector with ResNet50
 
 This project implements an object detection model using a pre-trained ResNet50 architecture. The model is designed to predict bounding boxes for specific objects within images.
 
