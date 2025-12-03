@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+.vscode/
+.DS_Store
+data/images/
+data/training_images/
+data/testing_images/
+data/grading_images/
+data/*.json
+data/*.zip
+*.png
